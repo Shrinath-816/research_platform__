@@ -1,5 +1,5 @@
 import pdfplumber
-from docx import Document
+
 
 def extract_text(file_path):
     if file_path.endswith(".pdf"):
