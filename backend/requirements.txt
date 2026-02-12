@@ -1,8 +1,9 @@
-fastapi==0.110.0
-uvicorn==0.29.0
+fastapi
+uvicorn[standard]
 google-genai
 python-dotenv
 pdfplumber
 python-docx
 pydantic
+
 
