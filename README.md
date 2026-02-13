@@ -1,3 +1,4 @@
+# AI Research Portal
 # Live Deployment
 
  # Frontend
@@ -8,6 +9,19 @@ https://research-platform-0s31.onrender.com
 
 # Backend API Documentation
 https://research-platform-0s31.onrender.com/docs
+
+
+
+# Overview
+
+AI Research Portal is a structured research tool built for analysts.
+This system is not an open-ended chatbot. Instead, it processes uploaded documents and produces structured, research-ready outputs.
+
+The current implementation supports Earnings Call and Management Commentary analysis.
+
+Users can upload a document and receive structured insights including tone, confidence level, key positives, key concerns, forward guidance, and growth initiatives.
+
+The system is designed to be reliable, structured, and analyst-friendly.
 
 # Note
 Backend is hosted on Render free tier. The service may take 30 to 60 seconds to wake up after inactivity.
